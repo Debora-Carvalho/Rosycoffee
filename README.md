@@ -6,7 +6,7 @@
 <h3>📄Objetivos da página</h3>
 <p>A Landing Page da cafeteria Rosycoffee tem como principal objetivo atrair e envolver tanto os amantes de café quanto os interessados em desfrutar de um ambiente acolhedor e relaxante. 
   A proposta é apresentar de forma atraente os produtos oferecidos pela cafeteria, permitir o cadastro do cliente para cupons de descontos e expor avaliações. 
-  Os elementos da página foram planejados de forma a transmitir delicadeza e remeter à doçura (de acordo com o adequado para o contexto da cafeteria que alinha sabores a um cenário agradável, digno de cenário de filme), considerando cores, iconografia e tipografia.
+  Os elementos da página foram planejados de forma a transmitir delicadeza e remeter à doçura (de acordo com o adequado para o contexto da cafeteria que alinha sabores a um cenário agradável, digno de cenário de filme), considerando cores, elementos visuais e tipografia.
 </p><br>
 <h3>👩Público-alvo</h3>
 <p>
@@ -28,8 +28,9 @@
 <h2>🌸Desenvolvedoras</h2>
 <p>Débora Carvalho, Natália de Brito e Anahi Mamani.</p><br>
 <p align="center">
-<img loading="lazy" src="https://github.com/Debora-Carvalho/Rosycoffee/assets/104103793/8d940a4f-6909-402b-ae23-2c71a3a3bb82" alt="Avatar das desenvolvedoras da Landing page"/>
+<img loading="lazy" src="https://github.com/Debora-Carvalho/Rosycoffee/assets/104103793/81888cea-3e01-4f0e-b4dc-ccaf76be39d7" alt="Avatar das desenvolvedoras da Landing page"/>
 </p>
+
 
 
 
