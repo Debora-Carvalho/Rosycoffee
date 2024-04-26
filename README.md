@@ -1,5 +1,5 @@
 <p align="center">
-<img loading="lazy" src="https://github.com/Debora-Carvalho/Rosycoffee/assets/104103793/a506d790-5a85-47e7-bb1c-b626c82a8446"/>
+<img loading="lazy" src="https://github.com/Debora-Carvalho/Rosycoffee/assets/104103793/a506d790-5a85-47e7-bb1c-b626c82a8446"  alt="Logotipo da landing page - Rosycoffee"/>
 </p>
 
 <h2>☕Sobre a Rosycoffee</h2>
@@ -16,18 +16,24 @@
 
 <h2>🎯 Objetivo do projeto</h2>
 <p>Aplicar conhecimentos adquiridos durante as aulas de Desenvolvimento Web I (disciplina integrante do curso de Desenvolvimento de Software Multiplataforma).</p><br>
+<p>📆 Desenvolvido em abril, 2024.</p><br>
 
 <h2>💻Tecnologias e ferramentas utilizadas</h2>
 <p>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="Ícone do html5"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="Ícone do css3"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="Ícone do Visual Studio Code"/>
 </p><br>
 
 <h2>🌸Desenvolvedoras</h2>
 <p>Débora Carvalho, Natália de Brito e Anahi Mamani.</p><br>
+<p align="center">
+<img loading="lazy" src="https://github.com/Debora-Carvalho/Rosycoffee/assets/104103793/8d940a4f-6909-402b-ae23-2c71a3a3bb82" alt="Avatar das desenvolvedoras da Landing page"/>
+</p>
 
-<p>📆 abril, 2024.</p>
+
+
+
           
           
           
