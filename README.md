@@ -6,7 +6,7 @@
 <h3>📄Objetivos da página</h3>
 <p>A Landing Page da cafeteria Rosycoffee tem como principal objetivo atrair e envolver tanto os amantes de café quanto os interessados em desfrutar de um ambiente acolhedor e relaxante. 
   A proposta é apresentar de forma atraente os produtos oferecidos pela cafeteria, permitir o cadastro do cliente para cupons de descontos e expor avaliações. 
-  Os elementos da página foram planejados de forma a transmitir delicadeza e remeter à doçura (de acordo com o adequado para o contexto da cafeteria que alinha sabores a um cenário agradável, digno de cenário de filme), considerando cores, elementos visuais e tipografia.
+  Os elementos da página foram planejados de forma a transmitir delicadeza e remeter à doçura (de acordo com o adequado para o contexto da cafeteria que alinha sabores a um local agradável, digno de cenário de filme), considerando cores, elementos visuais e tipografia.
 </p><br>
 <h3>👩Público-alvo</h3>
 <p>
