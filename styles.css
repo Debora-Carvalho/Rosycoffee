@@ -28,7 +28,8 @@ ul {
 
 
 nav {
-    max-width: 1120px;
+    /* max-width: 1120px; */
+    width: auto;
     margin: auto;
     padding: 1.5rem 1rem;
 
@@ -88,10 +89,14 @@ main {
 
 .principal-hero {
     background: #E56997;
+        max-width: max-content;
+        padding: 3rem 2rem;
+        margin: auto;
 }
 .hero {
-    max-width: 1120px;
-    height: 60vh;
+    /* max-width: 1120px; */
+    width: auto;
+    /* height: 60vh; */
 
     display: flex;
     flex-direction: row;
@@ -154,17 +159,16 @@ h1 {
     border-radius: 0.5rem;
 }
 
-.botao-registro-container {
+/* .botao-registro-container {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-}
+} */
 
 .botao-registro {
     color: #F652A0;
     background: #E56997;
-    padding: 2rem;
-    margin: 0; 
+    padding-top: 1rem;
     border-radius: 10px; 
 }
 
@@ -179,7 +183,7 @@ h1 {
     text-align: center;
     text-decoration: none;
     display: block; 
-    margin: 0 80px;
+    margin: 0;
     font-size: 24px;
     cursor: pointer;
     border-radius: 20px;
@@ -198,13 +202,14 @@ h1 {
     font-weight: 300;
     color: #FFF2E7;
     text-align: left; 
-    margin: 5px 80px;
+    margin: 5px;
 }
 
 .cardapio {
     display: flex;
     flex-direction: column;
-    max-width: 1120px;
+    width: auto;
+    /* max-width: 1120px; */
     padding: 3rem 2rem;
     margin: auto;
 }
@@ -233,8 +238,14 @@ h1 {
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;  
-    margin: 30px 30px 30px 30px;
-    justify-content: space-between; 
+    margin: 10px 10px 10px 10px;
+
+
+    /* padding: 0rem 1rem; */
+
+    flex-direction: row;
+
+    gap: 1rem;
 }
 
 .cardapio-card {
@@ -274,7 +285,8 @@ h1 {
 .avaliacoes {
     display: flex;
     flex-direction: column;
-    max-width: 1120px;
+    /* max-width: 1120px; */
+    width: auto;
     padding: 3rem 2rem;
     margin: auto;
 }
