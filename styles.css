@@ -32,8 +32,7 @@ nav {
     /* max-width: 1120px; */
     width: auto;
     margin: auto;
-    padding: 1.5rem 1rem;
-
+    padding: 1.5rem 8rem;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -90,24 +89,18 @@ main {
 
 .principal-hero {
     background: #E56997;
-        max-width: max-content;
-        padding: 3rem 2rem;
-        margin: auto;
+    width: auto;
+    padding: 5rem;
 }
 .hero {
-    /* max-width: 1120px; */
-    width: auto;
-    /* height: 60vh; */
-
+    /* width: auto; */
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
     gap: 6rem;
-
-    padding: 0rem 2 rem;
-    margin: auto;
-    
+    /* padding: 0rem 2 rem;
+    margin: auto; */
 }
 
 .hero-conteudo {
@@ -143,7 +136,7 @@ hr {
 }
 h1 {
     font-family: Montserrat;
-    font-size: 3.5rem;
+    font-size: 6rem;
     font-weight: 800;
 }
 .hero-imagens-container {
@@ -167,10 +160,11 @@ h1 {
 } */
 
 .botao-registro {
-    color: #F652A0;
+    color: #ffffff;
     background: #E56997;
-    padding-top: 1rem;
-    border-radius: 10px; 
+    /* padding-top: 1rem; */
+    border-radius: 10px;
+    margin-top: 7%;
 }
 
 .botao-principal {
@@ -202,8 +196,8 @@ h1 {
     font-size: 14px;
     font-weight: 300;
     color: #FFF2E7;
-    text-align: left; 
-    margin: 5px;
+    /* text-align: left; 
+    margin: 5px; */
 }
 
 .cardapio {
@@ -215,11 +209,11 @@ h1 {
     margin: auto;
 }
 
-.cardapio-cabecalho {
+/* .cardapio-cabecalho {
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
-}
+} */
 
 .cardapio-titulo {
     font-family: Montserrat;
@@ -292,7 +286,7 @@ h1 {
     margin: auto;
 }
 
-.avaliacoes-cabecalho {
+.cabecalho {
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
