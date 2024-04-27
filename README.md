@@ -25,6 +25,9 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="Ícone do Visual Studio Code"/>
 </p><br>
 
+<h2>🍰 Acesse o site através do link:</h2>
+<a href="https://debora-carvalho.github.io/Rosycoffee/">Rossycoffe</a>
+
 <h2>🌸Desenvolvedoras</h2>
 <p>Débora Carvalho, Natália de Brito e Anahi Mamani.</p><br>
 <p align="center">
