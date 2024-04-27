@@ -7,9 +7,8 @@
 }
 
 body {
-    background: #F652A0;
+    background: #c15186;
     color: #FFFFFF;
-  
 }
 
 html {
@@ -32,7 +31,7 @@ nav {
     /* max-width: 1120px; */
     width: auto;
     margin: auto;
-    padding: 1.5rem 8rem;
+    padding: 1.5rem 5rem;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -45,6 +44,7 @@ nav {
     font-weight: 600;
     color: #FFFFFF;
     margin-right: auto;
+    padding-top: 30px;
 }
 
 .menu {
@@ -88,19 +88,16 @@ main {
 }
 
 .principal-hero {
-    background: #E56997;
+    background: #e06e98;
     width: auto;
-    padding: 5rem;
+    padding:5rem;
 }
 .hero {
-    /* width: auto; */
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
     gap: 6rem;
-    /* padding: 0rem 2 rem;
-    margin: auto; */
 }
 
 .hero-conteudo {
@@ -114,9 +111,6 @@ main {
     font-size: 1rem;
     font-weight: 500;
     text-transform: uppercase;
-}
-
-.amarelo {
     color: #FBC740;
 }
 
@@ -132,11 +126,11 @@ hr {
     font-family: Inter;
     font-size: 1.5rem;
     font-weight: 400;
-    color: #FFFFFF;
+
 }
 h1 {
     font-family: Montserrat;
-    font-size: 6rem;
+    font-size: calc(4rem);
     font-weight: 800;
 }
 .hero-imagens-container {
@@ -144,7 +138,6 @@ h1 {
     column-count: 5;
     column-gap: 1rem;
     margin: -1rem;
-
     overflow: clip;
 }
 
@@ -160,9 +153,6 @@ h1 {
 } */
 
 .botao-registro {
-    color: #ffffff;
-    background: #E56997;
-    /* padding-top: 1rem; */
     border-radius: 10px;
     margin-top: 7%;
 }
@@ -204,16 +194,9 @@ h1 {
     display: flex;
     flex-direction: column;
     width: auto;
-    /* max-width: 1120px; */
-    padding: 3rem 2rem;
-    margin: auto;
+    padding: 1.5rem 5rem;
+    background-color: #d95585;
 }
-
-/* .cardapio-cabecalho {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-} */
 
 .cardapio-titulo {
     font-family: Montserrat;
@@ -280,10 +263,9 @@ h1 {
 .avaliacoes {
     display: flex;
     flex-direction: column;
-    /* max-width: 1120px; */
     width: auto;
-    padding: 3rem 2rem;
-    margin: auto;
+    padding: 1.5rem 5rem;;
+    background-color: #d95585;
 }
 
 .cabecalho {
@@ -360,7 +342,7 @@ h1 {
     color:#616161;   
 }
 
-.avaliaçao-autor {
+.avaliacao-autor {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -384,13 +366,29 @@ h1 {
 }
 
 footer {
-    background: #F652A0;
     display: flex;
     flex-direction: column;
-    padding: 4rem;
+    padding: 2rem;
     align-items: center;
     text-align: center;
     gap: 0.5rem;
+    background-color: #c15186;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-confirnacao{
+    background: #c15186;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    align-items: center;
+    text-align: center;
+    gap: 0.5rem;
+
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 .footer-copy {
@@ -398,13 +396,6 @@ footer {
     font-size: 14px;
     font-weight: 500;
     color: #FFFFFF;
-}
-
-.footer-dev {
-    font-family: Inter;
-    font-size: 14px;
-    font-weight: 500;
-    color: #FFAEBC;
 }
 
 .icones-midias {
@@ -422,9 +413,9 @@ footer {
     font-size: 32px;
     font-weight: 600;
     color: #FFFFFF;
-    align-self: center; 
+    /* align-self: center; 
     margin-bottom: auto;
-    margin-top: auto;
+    margin-top: auto; */
 }
 
 /*Estilização da página de cadastro*/
@@ -599,5 +590,14 @@ footer {
     color: #FFFFFF;
 }
 
-
-
+.icon img {
+    max-width: 60px;
+    max-height:100px;
+    width: auto;
+    height: auto;
+}
+.logo-inteira{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
