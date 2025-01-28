@@ -8,6 +8,9 @@
   A proposta é apresentar de forma atraente os produtos oferecidos pela cafeteria, permitir o cadastro do cliente para cupons de descontos e expor avaliações. 
   Os elementos da página foram planejados de forma a transmitir delicadeza e remeter à doçura (de acordo com o adequado para o contexto da cafeteria que alinha sabores a um local agradável, digno de cenário de filme), considerando cores, elementos visuais e tipografia.
 </p><br>
+
+![Imagem do Projeto](./images/print-pagina-rosycoffee.png) 
+
 <h3>👩Público-alvo</h3>
 <p>
   O público-alvo inclui jovens adultos, profissionais que buscam um local para reuniões informais ou para trabalho remoto, estudantes em busca de um ambiente para estudar ou relaxar, 
